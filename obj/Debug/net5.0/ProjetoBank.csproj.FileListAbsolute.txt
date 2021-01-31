@@ -1,0 +1,16 @@
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\bin\Debug\net5.0\ProjetoBank.exe
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\bin\Debug\net5.0\ProjetoBank.deps.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\bin\Debug\net5.0\ProjetoBank.runtimeconfig.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\bin\Debug\net5.0\ProjetoBank.runtimeconfig.dev.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\bin\Debug\net5.0\ProjetoBank.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\bin\Debug\net5.0\ref\ProjetoBank.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\bin\Debug\net5.0\ProjetoBank.pdb
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.csprojAssemblyReference.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.AssemblyInfoInputs.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.AssemblyInfo.cs
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.csproj.CoreCompileInputs.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ref\ProjetoBank.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.pdb
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoBank\obj\Debug\net5.0\ProjetoBank.genruntimeconfig.cache
